@@ -1,0 +1,36 @@
+Type=Exe
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\..\PWINXP\System32\stdole2.tlb#OLE Automation
+Module=Module_Arithmetic; Module_Arithmetic.bas
+Startup="Sub Main"
+HelpFile=""
+Title="DLL_Arithmetic"
+ExeName32="DLL_Arithmetic.dll"
+Command32=""
+Name="DLL_Arithmetic"
+HelpContextID="0"
+CompatibleMode="0"
+CompatibleEXE32="DLL_Arithmetic.dll"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
+VersionCompanyName="No.7 Mid-School"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=0
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+
+[MS Transaction Server]
+AutoRefresh=1
